@@ -6,6 +6,7 @@ public class Account {
 		return msg;
 	}
 
+	// New Comment for balance
 	// Instance variable, only available inside this class.
 	private double balance;
 	private String name;
